@@ -7,9 +7,12 @@ using System.Threading.Tasks;
 namespace C0725642
 {
     class Program
-    {
-        static void Main(string[] args)
-        {
+
+
+        static void Main(String [] args)
+        { 
+            Console.WriteLine(1 + 1);
+        var MyDog = new Peanut();
         }
     }
 }
